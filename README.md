@@ -1,1 +1,1 @@
-# travel_package_forecasting
+# travel_package_prediction
